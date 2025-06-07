@@ -1,3 +1,4 @@
+// **Atividade do 3000 TI - Senac 2024 
 console.log(5>1)
 console.log(1<2)
 console.log(3===3)
@@ -25,6 +26,8 @@ console.log(a||b)
 console.log(b||c)
 console.log(a||c)
 console.log(a||b||c)
+
+// Verificando idade do fulano em 2025
 console.log("-------------")
 const nome = prompt ("Qual é seu nome?")
 let datanascimento = Number(prompt("Ano de Nascimento"))

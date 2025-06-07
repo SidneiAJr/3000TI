@@ -8,7 +8,10 @@ const frase6 = frasemini .replaceAll("o","i")
 const frase7 = frasemini
 const dog = ["Pasto alemão","Shitzu","buldogue","husky","pitbull","Caramelo"]
 const raca = prompt("Digite um Numero de 0 a 4 ")
-
+//ToLowerCase faz a letra ficar minuscula 
+//Replace all procura
+//Lenght procura no indice
+//Splica adiciona
 
 const arrays = [1,2,3,4,5,6]
 arrays.push(7)
