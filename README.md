@@ -5,7 +5,6 @@ Este repositório contém os códigos e anotações dos cursos de JavaScript rea
 ## 🚀 Conteúdo
 
 - Fundamentos de JavaScript
-- Orientação a objetos
 - Projetos práticos com JavaScript
 
 ## 🎯 Objetivo
